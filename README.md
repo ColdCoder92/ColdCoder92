@@ -1,4 +1,4 @@
-- 👋 Hi everyone!, I’m @ColdCoder92.
+- 👋 Hi everyone!, I am Lucas Rodriguez.
 - 🏫 I am very interested in applying my coding and planning skills to contribute to other's projects.
 - 🌱 I’m currently practicing HTML & CSS, JavaScript, and Java.
 - 💞️ I enjoy positive results and creativity as much as I enjoy my ice cream.
