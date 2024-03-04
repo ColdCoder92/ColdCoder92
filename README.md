@@ -1,6 +1,6 @@
 - 👋 Hi everyone!, I am Lucas Rodriguez.
 - 🏫 I am very interested in applying my coding and planning skills to contribute to other's projects.
-- 🌱 I’m currently practicing C# and Java.
+- 🌱 I’m currently practicing C#, Java, and C/C++.
 - 💞️ I enjoy positive results and creativity as much as I enjoy my ice cream.
 - 📫 You can reach me by email.
 
